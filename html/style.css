@@ -74,7 +74,7 @@ a:focus {
 #sidebar .sidebar-header {
     padding: 5px;
     background: #1b1b1b;
-    text-decoration: underline;
+    /* text-decoration: underline; */
 }
 
 #sidebar ul.components {
