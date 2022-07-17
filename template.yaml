@@ -43,7 +43,7 @@ Resources:
     Type: AWS::S3::Bucket
     Properties:
       # Change bucket name to reflect your website
-      BucketName: resume.yusuf-shalaby.com
+      BucketName: resume.alishalaby.com
 
   S3BucketPolicy:
     Type: AWS::S3::BucketPolicy

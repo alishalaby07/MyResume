@@ -1,0 +1,12 @@
+version = 0.1
+[default]
+[default.deploy]
+[default.deploy.parameters]
+stack_name = "ali-resume"
+s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-1tupqk6d1y3n1"
+s3_prefix = "ali-resume"
+region = "us-east-1"
+profile = "personal"
+confirm_changeset = true
+capabilities = "CAPABILITY_IAM"
+image_repositories = []
